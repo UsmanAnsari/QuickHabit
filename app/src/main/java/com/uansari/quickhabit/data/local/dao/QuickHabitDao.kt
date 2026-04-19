@@ -6,7 +6,6 @@ import androidx.room.Insert
 import androidx.room.OnConflictStrategy.Companion.IGNORE
 import androidx.room.OnConflictStrategy.Companion.REPLACE
 import androidx.room.Query
-import androidx.room.Transaction
 import com.uansari.quickhabit.data.local.model.HabitCompletionEntity
 import com.uansari.quickhabit.data.local.model.HabitEntity
 import kotlinx.coroutines.flow.Flow
@@ -30,8 +29,4 @@ interface QuickHabitDao {
 
     @Delete
     suspend fun deleteHabitCompletion(habitCompletionEntity: HabitCompletionEntity)
-
-    @Transaction
-    @Query("SELECT * FROM habits")
-    fun getAllHabitsWithCompletions(): Flow<List<HabitEntity>>
 }

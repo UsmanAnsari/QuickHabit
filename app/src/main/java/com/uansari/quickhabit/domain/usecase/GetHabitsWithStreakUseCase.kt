@@ -34,7 +34,8 @@ class GetHabitsWithStreakUseCase @Inject constructor(
                             },
                             currentStreak = currentStreak,
                             bestStreak = bestStreak,
-                            weeklyGrid = buildWeeklyGrid(dates)
+                            weeklyGrid = buildWeeklyGrid(dates),
+                            completions = completions
                         )
                     }
             }

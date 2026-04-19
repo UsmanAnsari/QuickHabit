@@ -6,4 +6,5 @@ data class HabitWithStreak(
     val currentStreak: Int,
     val bestStreak: Int,
     val weeklyGrid: List<WeekDay>,
+    val completions: List<HabitCompletion>
 )

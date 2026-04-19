@@ -1,4 +1,4 @@
-package com.uansari.quickhabit.ui
+package com.uansari.quickhabit.presentation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

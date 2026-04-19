@@ -1,4 +1,4 @@
-package com.uansari.quickhabit.ui
+package com.uansari.quickhabit.presentation
 
 data class QuickHabitUiState(
     val screenName: String = "Hello World"

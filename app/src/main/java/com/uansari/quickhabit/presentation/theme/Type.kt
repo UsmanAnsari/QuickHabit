@@ -1,4 +1,4 @@
-package com.uansari.quickhabit.ui.theme
+package com.uansari.quickhabit.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

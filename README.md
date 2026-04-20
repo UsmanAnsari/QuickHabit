@@ -2,6 +2,10 @@
 
 # 🔥 QuickHabit - Habit Tracker
 
+<p>
+<img src="app/src/main/ic_launcher-playstore.png" alt="MovieWise Logo" width="25%" height="25%"/>
+</p>
+
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.1-purple.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
 [![Android](https://img.shields.io/badge/Android-29+-green.svg?style=flat&logo=android)](https://developer.android.com)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.12.3-blue.svg?style=flat&logo=jetpackcompose)](https://developer.android.com/jetpack/compose)

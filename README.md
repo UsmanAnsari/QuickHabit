@@ -45,9 +45,9 @@
 
 <div align="center">
 
-| Habit List | All Completed | Empty State | Delete Dialog |
-|:-----------:|:--------------:|:-----------:|:-------------:|
-| ![Habit List](assets/screenshots/habit_list.png) | ![Completed](assets/screenshots/all_completed.png) | ![Empty](assets/screenshots/empty_state.png) | ![Delete](assets/screenshots/delete_dialog.png) |
+| Home Screen | Empty State | Delete Dialog |
+|:-----------:|:-----------:|:-------------:|
+| ![Home Screen](assets/home_screen.png) | ![Empty](assets/empty_state.png) | ![Delete](assets/delete_dialog.png) |
 
 </div>
 
